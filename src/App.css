@@ -1,0 +1,28 @@
+h3{
+  text-align: center;
+  margin-top: 15px;
+}
+.box{
+  width: 400px;
+  margin-top: 50px;
+  margin-right: 50px;
+}
+.container{
+  
+  width: 500px;
+ 
+}
+.btn{
+  width: 100px;
+}
+.card{
+  margin-top: 20px;
+padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+body{
+  background-color: rgb(237, 230, 230);
+}
